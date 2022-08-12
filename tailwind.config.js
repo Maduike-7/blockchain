@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-           'topbackground': "url('/images/topbackground.png')",
-           'footer-texture': "url('/img/footer-texture.png')",
+           'topbackground': "url('/images/home-hero-gradient.svg')",
+           'nav-backgroun': "url('/img/footer-texture.png')",
                 })
     },
   },
