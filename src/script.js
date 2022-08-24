@@ -1,0 +1,1 @@
+// document.querySelector("#__next > div > main > div.SimpleBuy__Wrapper-sc-1q8ozsa-0.dSUsnY > button")
