@@ -31,6 +31,34 @@
     top: 40px;
     transition: ease-in-out 0s;
 }
+.dUQvIp {
+    font-size: 17px;
+    color: rgb(204, 210, 222);
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center; 
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 0.25rem;
+    position: relative;
+    height: 5vh;
+    width: ;
+}
+
+.dUQvIp:hover {
+    color: rgb(204, 210, 222);
+    background: none rgba(255, 255, 255, 0.1);
+    transition: color 500ms ease 0s, background-color 500ms ease 0s;
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center; 
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 0.25rem;
+    position: relative;
+}
 
 .ctBmkR {
     background: none rgba(255, 255, 255, 0.1);
@@ -193,3 +221,10 @@
   
 
 } 
+
+.language-selection  {
+    position: relative;
+    margin-top: 43%;
+    right: 1%;
+    -bottom: 80%;
+}
